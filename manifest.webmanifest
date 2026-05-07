@@ -1,0 +1,63 @@
+{
+  "name": "NEPA-PRO Tradesmen — Skilled Labor on Subscription",
+  "short_name": "Tradesmen",
+  "description": "Book vetted skilled tradespeople by the half-day, full day, or week across Northeast Pennsylvania. Zero workers comp liability for the contractor.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#060f1f",
+  "theme_color": "#0a1628",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "utilities"],
+
+  "icons": [
+    { "src": "/icons/favicon-16x16.png", "sizes": "16x16", "type": "image/png" },
+    { "src": "/icons/favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/icons/favicon-48x48.png", "sizes": "48x48", "type": "image/png" },
+    { "src": "/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icons/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+
+  "screenshots": [
+    {
+      "src": "/icons/og-card.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "NEPA-PRO Tradesmen — book skilled labor on subscription"
+    }
+  ],
+
+  "shortcuts": [
+    {
+      "name": "Browse Trades",
+      "short_name": "Trades",
+      "description": "View all 15 trades and book labor",
+      "url": "/#trades",
+      "icons": [{ "src": "/icons/android-chrome-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Pricing Tiers",
+      "short_name": "Pricing",
+      "description": "Half day, full day, or weekly",
+      "url": "/#pricing",
+      "icons": [{ "src": "/icons/android-chrome-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Call Dispatch",
+      "short_name": "Call",
+      "description": "Talk to NEPA-PRO dispatch",
+      "url": "tel:5706777971",
+      "icons": [{ "src": "/icons/android-chrome-192x192.png", "sizes": "192x192" }]
+    }
+  ],
+
+  "prefer_related_applications": false
+}
