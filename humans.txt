@@ -1,0 +1,23 @@
+/* TEAM */
+Owner / Founder: Noel Segui
+Location: Clarks Summit, PA, USA
+Veteran: U.S. Military
+
+/* THANKS */
+Veterans of the construction trades, Northeast Pennsylvania.
+Open-source contributors who made the tooling possible.
+
+/* SITE */
+Last update: 2026-05-08
+Doctype: HTML5
+Language: English
+Standards: HTML5, CSS3, JSON-LD, Schema.org
+Components: Vanilla HTML, CSS, JavaScript. Service worker for PWA. Stripe Payment Links for checkout.
+Software: Built and maintained from Clarks Summit, PA.
+
+/* COMPANY */
+Name: NEPA-PRO LLC
+Trade name: NEPA-PRO Tradesmen
+Address: 14012 Orchard Drive, Clarks Summit, PA 18411
+Phone: 570-677-7971
+Email: service@nepa-pro.com

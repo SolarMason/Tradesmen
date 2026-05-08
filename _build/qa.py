@@ -211,11 +211,27 @@ print("\n[8] SEO & Schema.org")
 ld_match = re.search(r'<script type="application/ld\+json">(.*?)</script>',
                      html, re.DOTALL)
 ld = json.loads(ld_match.group(1))
-check("JSON-LD type = LocalBusiness", ld.get("@type") == "LocalBusiness")
-check("JSON-LD has telephone", ld.get("telephone") == "+1-570-677-7971")
-check("JSON-LD has address", ld.get("address", {}).get("postalCode") == "18411")
-check("JSON-LD has area served", isinstance(ld.get("areaServed"), list) and
-      len(ld["areaServed"]) >= 5)
+
+# Schema may be a single node OR an @graph with multiple nodes.
+# After SEO upgrade it is an @graph; LocalBusiness @type may also be a string
+# OR an array (e.g. ["LocalBusiness","GeneralContractor"]).
+def _has_type(node, target):
+    t = node.get("@type")
+    if isinstance(t, list):
+        return target in t
+    return t == target
+
+graph = ld.get("@graph", [ld])  # support both wrapped and unwrapped forms
+local_biz = next((n for n in graph if _has_type(n, "LocalBusiness")), None)
+
+check("JSON-LD has LocalBusiness node", local_biz is not None)
+check("JSON-LD has telephone",
+      local_biz and local_biz.get("telephone") == "+1-570-677-7971")
+check("JSON-LD has address",
+      local_biz and local_biz.get("address", {}).get("postalCode") == "18411")
+check("JSON-LD has area served",
+      local_biz and isinstance(local_biz.get("areaServed"), list)
+      and len(local_biz["areaServed"]) >= 5)
 check("Sitemap is valid XML", True)
 check("Robots.txt allows crawlers", "Allow: /" in fetch("/robots.txt").read().decode())
 
@@ -302,6 +318,108 @@ check("Two jobs (build + deploy)", set(wf["jobs"].keys()) == {"build", "deploy"}
 
 
 # ============================================================
+# ============================================================
+# SEO + AI-AGENT DISCOVERY (added)
+# ============================================================
+print("\n[13] SEO Files (sitemap, robots, llms.txt, etc.)")
+
+for path, label in [
+    ("/sitemap.xml", "sitemap.xml"),
+    ("/robots.txt", "robots.txt"),
+    ("/llms.txt", "llms.txt"),
+    ("/llms-full.txt", "llms-full.txt"),
+    ("/humans.txt", "humans.txt"),
+    ("/security.txt", "security.txt"),
+    ("/.well-known/security.txt", ".well-known/security.txt"),
+]:
+    try:
+        body = urllib.request.urlopen(f"http://localhost:{PORT}{path}").read().decode()
+        check(f"  {label} reachable ({len(body)} bytes)", len(body) > 50)
+    except Exception as e:
+        check(f"  {label} reachable", False, str(e))
+
+# Sitemap content checks
+sitemap = urllib.request.urlopen(f"http://localhost:{PORT}/sitemap.xml").read().decode()
+check("  Sitemap declares all 15 trade pages",
+      sum(1 for slug in ["electricians","plumbers","hvac","commercial-hvac","commercial-plumbers",
+                          "welders","masons","concrete","drywall","ironworkers","linemen",
+                          "heavy-equipment","operating-engineers","millwrights","riggers"]
+          if f"/services/{slug}/" in sitemap) == 15)
+check("  Sitemap declares /about/", "/about/" in sitemap)
+check("  Sitemap declares /docs/", "/docs/" in sitemap)
+check("  Sitemap declares /services/", "/services/" in sitemap)
+
+# robots.txt content
+robots = urllib.request.urlopen(f"http://localhost:{PORT}/robots.txt").read().decode()
+check("  robots.txt declares Sitemap", "Sitemap:" in robots)
+check("  robots.txt allows GPTBot", "GPTBot" in robots and "Allow: /" in robots)
+check("  robots.txt allows ClaudeBot", "ClaudeBot" in robots)
+check("  robots.txt allows PerplexityBot", "PerplexityBot" in robots)
+check("  robots.txt allows Googlebot", "Googlebot" in robots)
+
+
+print("\n[14] Trade landing pages (15)")
+for slug in ["electricians","plumbers","hvac","commercial-hvac","commercial-plumbers",
+             "welders","masons","concrete","drywall","ironworkers","linemen",
+             "heavy-equipment","operating-engineers","millwrights","riggers"]:
+    try:
+        body = urllib.request.urlopen(f"http://localhost:{PORT}/services/{slug}/").read().decode()
+        # Each must have title, meta desc, canonical, JSON-LD, h1, FAQ
+        all_ok = (
+            "<title>" in body and
+            '<meta name="description"' in body and
+            'rel="canonical"' in body and
+            'application/ld+json' in body and
+            "<h1" in body and
+            '"@type":"Service"' in body and
+            "FAQPage" in body and
+            "BreadcrumbList" in body and
+            "tel:5706777971" in body
+        )
+        check(f"  /services/{slug}/ — all SEO elements present", all_ok)
+    except Exception as e:
+        check(f"  /services/{slug}/", False, str(e))
+
+
+print("\n[15] /services/ index + /about/")
+for path, must_contain in [
+    ("/services/", ["ItemList", "All Skilled Trades", "tel:5706777971"]),
+    ("/about/",    ["AboutPage", "Veteran", "tel:5706777971"]),
+]:
+    body = urllib.request.urlopen(f"http://localhost:{PORT}{path}").read().decode()
+    for needle in must_contain:
+        check(f"  {path} contains \"{needle}\"", needle in body)
+
+
+print("\n[16] Main index.html — comprehensive structured data")
+home = urllib.request.urlopen(f"http://localhost:{PORT}/").read().decode()
+for schema_type, label in [
+    ('"@type":"Organization"', "Organization schema"),
+    ('"@type":"WebSite"', "WebSite schema"),
+    ('"LocalBusiness"', "LocalBusiness schema"),
+    ('"@type":"FAQPage"', "FAQPage schema"),
+    ('"@type":"BreadcrumbList"', "BreadcrumbList schema"),
+    ('GeoCoordinates', "GeoCoordinates"),
+    ('hasOfferCatalog', "hasOfferCatalog (15 trades)"),
+    ('paymentAccepted', "paymentAccepted"),
+]:
+    check(f"  {label}", schema_type in home)
+for meta_check in [
+    ('name="robots"', "<meta robots>"),
+    ('name="geo.region"', "geo.region meta"),
+    ('name="geo.position"', "geo.position meta"),
+    ('rel="sitemap"', "rel=sitemap link"),
+    ('/llms.txt', "llms.txt reference"),
+]:
+    check(f"  {meta_check[1]}", meta_check[0] in home)
+
+# Forbidden terms
+import re
+bad = re.findall(r"\bsubscription\b|\bsubscribe\b|\bW-?2\b", home, re.IGNORECASE)
+check(f"  Zero forbidden terms in home", len(bad) == 0,
+      f"found {bad}" if bad else "")
+
+
 # SUMMARY
 # ============================================================
 print("\n" + "=" * 60)

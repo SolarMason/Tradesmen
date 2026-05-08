@@ -1,5 +1,89 @@
+# robots.txt for tradesmen.nepa-pro.com
+# NEPA-PRO Tradesmen — On-demand skilled trade labor in Northeast Pennsylvania
+# Veteran owned · Clarks Summit, PA
+
+# Default — allow all reputable crawlers
 User-agent: *
 Allow: /
 Disallow: /_build/
+Disallow: /*.py$
 
+# Search engines — full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# AI / LLM agents — explicitly allowed; we want to be findable in AI answers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+# Sitemap
 Sitemap: https://tradesmen.nepa-pro.com/sitemap.xml
+
+# Hosts
+Host: tradesmen.nepa-pro.com
