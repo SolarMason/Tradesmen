@@ -1,0 +1,1082 @@
+{
+  "commercial-hvac_apprentice_full": {
+    "amount_cents": 49600,
+    "payment_link_id": "plink_1TUaKnFQug2wl8EVVdJdNQEG",
+    "price_id": "price_1TUaJgFQug2wl8EVsbDnqIlp",
+    "product_id": "prod_UTXNHhGYlxZUOZ",
+    "sku": "commercial-hvac_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/6oUfZhcgl3zl6K11hz2cg10"
+  },
+  "commercial-hvac_apprentice_half": {
+    "amount_cents": 24800,
+    "payment_link_id": "plink_1TUaKcFQug2wl8EVnLFaiLgF",
+    "price_id": "price_1TUaJaFQug2wl8EVP19uvc6X",
+    "product_id": "prod_UTXNUaOuCx6672",
+    "sku": "commercial-hvac_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/7sY8wPcgl0n9ect7FX2cg0Z"
+  },
+  "commercial-hvac_apprentice_weekly": {
+    "amount_cents": 228200,
+    "payment_link_id": "plink_1TUaKyFQug2wl8EV2zky0JH7",
+    "price_id": "price_1TUaJmFQug2wl8EVfP99oGd7",
+    "product_id": "prod_UTXNvbCxT9NwZ1",
+    "sku": "commercial-hvac_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/eVq6oH5RX7PBd8pf8p2cg11"
+  },
+  "commercial-hvac_journeyman_full": {
+    "amount_cents": 73600,
+    "payment_link_id": "plink_1TUaLJFQug2wl8EVmwWXiJNm",
+    "price_id": "price_1TUaJzFQug2wl8EV5E7MGMT2",
+    "product_id": "prod_UTXNLa1UXPukOy",
+    "sku": "commercial-hvac_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/00w00j6W14DpgkB0dv2cg13"
+  },
+  "commercial-hvac_journeyman_half": {
+    "amount_cents": 36800,
+    "payment_link_id": "plink_1TUaL8FQug2wl8EVN4KPy79A",
+    "price_id": "price_1TUaJsFQug2wl8EV4l3s7cb8",
+    "product_id": "prod_UTXNxqeSP3IJln",
+    "sku": "commercial-hvac_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/7sY6oHa8d1rd7O51hz2cg12"
+  },
+  "commercial-hvac_journeyman_weekly": {
+    "amount_cents": 338600,
+    "payment_link_id": "plink_1TUaLUFQug2wl8EVRLPOzBH0",
+    "price_id": "price_1TUaK4FQug2wl8EVMJtgaETM",
+    "product_id": "prod_UTXN92U6di1knB",
+    "sku": "commercial-hvac_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/aFa28rcglb1NectaS92cg14"
+  },
+  "commercial-hvac_master_full": {
+    "amount_cents": 100000,
+    "payment_link_id": "plink_1TUaNVFQug2wl8EVxmiedQAX",
+    "price_id": "price_1TUaKGFQug2wl8EVSzhG9j28",
+    "product_id": "prod_UTXONzZiTCQPv9",
+    "sku": "commercial-hvac_master_full",
+    "url": "https://secure.nepa-pro.com/b/aFaeVd6W16Lx3xP2lD2cg16"
+  },
+  "commercial-hvac_master_half": {
+    "amount_cents": 50000,
+    "payment_link_id": "plink_1TUaLeFQug2wl8EV0JK9rVVv",
+    "price_id": "price_1TUaKAFQug2wl8EVU3b3Zpf3",
+    "product_id": "prod_UTXO7vSWyA5Zi1",
+    "sku": "commercial-hvac_master_half",
+    "url": "https://secure.nepa-pro.com/b/fZufZh3JPc5R6K16BT2cg15"
+  },
+  "commercial-hvac_master_weekly": {
+    "amount_cents": 460000,
+    "payment_link_id": "plink_1TUaNhFQug2wl8EVFslCb9Sn",
+    "price_id": "price_1TUaKMFQug2wl8EV9yWFDMOp",
+    "product_id": "prod_UTXOlngkbUTRla",
+    "sku": "commercial-hvac_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/28EcN56W18TFd8paS92cg17"
+  },
+  "commercial-plumbers_apprentice_full": {
+    "amount_cents": 49600,
+    "payment_link_id": "plink_1TUbH7FQug2wl8EVGclnj9Vv",
+    "price_id": "price_1TUbFzFQug2wl8EVitItosga",
+    "product_id": "prod_UTYEpthcjwfcHA",
+    "sku": "commercial-plumbers_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/aFaaEXgwB3zlc4l4tL2cg1S"
+  },
+  "commercial-plumbers_apprentice_half": {
+    "amount_cents": 24800,
+    "payment_link_id": "plink_1TUbGwFQug2wl8EVDGBnJJkr",
+    "price_id": "price_1TUbFuFQug2wl8EVssqnATxQ",
+    "product_id": "prod_UTYEQHxTEUdQ3T",
+    "sku": "commercial-plumbers_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/aFa3cva8d6LxgkB4tL2cg1R"
+  },
+  "commercial-plumbers_apprentice_weekly": {
+    "amount_cents": 228200,
+    "payment_link_id": "plink_1TUbHHFQug2wl8EVodDFOabU",
+    "price_id": "price_1TUbG5FQug2wl8EV7OFN7Jbo",
+    "product_id": "prod_UTYE6JTftHqWIs",
+    "sku": "commercial-plumbers_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/5kQ6oH805gm7ect4tL2cg1T"
+  },
+  "commercial-plumbers_journeyman_full": {
+    "amount_cents": 73600,
+    "payment_link_id": "plink_1TUbHbFQug2wl8EVG9DGD4hA",
+    "price_id": "price_1TUbGIFQug2wl8EVhqdC9J8u",
+    "product_id": "prod_UTYE3zuUu7BzzS",
+    "sku": "commercial-plumbers_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/dRm7sLcglc5R5FXd0h2cg1V"
+  },
+  "commercial-plumbers_journeyman_half": {
+    "amount_cents": 36800,
+    "payment_link_id": "plink_1TUbHRFQug2wl8EVhGQC8K9V",
+    "price_id": "price_1TUbGDFQug2wl8EVGfoSpWFe",
+    "product_id": "prod_UTYEoo7hJmcaP0",
+    "sku": "commercial-plumbers_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/28E00j5RX0n91pH9O52cg1U"
+  },
+  "commercial-plumbers_journeyman_weekly": {
+    "amount_cents": 338600,
+    "payment_link_id": "plink_1TUbHlFQug2wl8EVzeiXGFWK",
+    "price_id": "price_1TUbGOFQug2wl8EVPdfzYDr3",
+    "product_id": "prod_UTYED7BSonjDKW",
+    "sku": "commercial-plumbers_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/14AcN5dkp7PBc4l2lD2cg1W"
+  },
+  "commercial-plumbers_master_full": {
+    "amount_cents": 100000,
+    "payment_link_id": "plink_1TUbI4FQug2wl8EVlEJeR4RO",
+    "price_id": "price_1TUbGaFQug2wl8EV5CvyCBR9",
+    "product_id": "prod_UTYMIiP3JaEtFZ",
+    "sku": "commercial-plumbers_master_full",
+    "url": "https://secure.nepa-pro.com/b/5kQ14nbch2vh8S9d0h2cg1Y"
+  },
+  "commercial-plumbers_master_half": {
+    "amount_cents": 50000,
+    "payment_link_id": "plink_1TUbHvFQug2wl8EVjilHIxdQ",
+    "price_id": "price_1TUbGUFQug2wl8EVnQ1o4wIn",
+    "product_id": "prod_UTYF0hsqmfbjpF",
+    "sku": "commercial-plumbers_master_half",
+    "url": "https://secure.nepa-pro.com/b/6oU4gz0xDedZb0h3pH2cg1X"
+  },
+  "commercial-plumbers_master_weekly": {
+    "amount_cents": 460000,
+    "payment_link_id": "plink_1TUbIDFQug2wl8EVz0qIvBo6",
+    "price_id": "price_1TUbGgFQug2wl8EVUEr7gGv3",
+    "product_id": "prod_UTYMvrgVktLmiZ",
+    "sku": "commercial-plumbers_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/eVq28reot4Dpd8p6BT2cg1Z"
+  },
+  "concrete_apprentice_full": {
+    "amount_cents": 38400,
+    "payment_link_id": "plink_1TUZIKFQug2wl8EVEZ5FXjLp",
+    "price_id": "price_1TUZHfFQug2wl8EVl9rpD2U8",
+    "product_id": "prod_UTWIInkvYENjMJ",
+    "sku": "concrete_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/7sY4gz4NT7PB3xP1hz2cg0r"
+  },
+  "concrete_apprentice_half": {
+    "amount_cents": 19200,
+    "payment_link_id": "plink_1TUZIAFQug2wl8EVAmnOYBs5",
+    "price_id": "price_1TUZHCFQug2wl8EVEjN2Ia5O",
+    "product_id": "prod_UTWIPDsYQ4b4Xm",
+    "sku": "concrete_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/14A8wP1BH7PBb0h5xP2cg0q"
+  },
+  "concrete_apprentice_weekly": {
+    "amount_cents": 176600,
+    "payment_link_id": "plink_1TUZIVFQug2wl8EVrV8as8RT",
+    "price_id": "price_1TUZHlFQug2wl8EVneeUmoXd",
+    "product_id": "prod_UTWJuiw1j5QaFX",
+    "sku": "concrete_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/7sY5kDcglb1N4BT7FX2cg0s"
+  },
+  "concrete_journeyman_full": {
+    "amount_cents": 54400,
+    "payment_link_id": "plink_1TUZQeFQug2wl8EVl0VMSpic",
+    "price_id": "price_1TUZPxFQug2wl8EVlTzCjxdY",
+    "product_id": "prod_UTWShuPhywrCjf",
+    "sku": "concrete_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/28EfZhbchc5R3xP8K12cg0u"
+  },
+  "concrete_journeyman_half": {
+    "amount_cents": 27200,
+    "payment_link_id": "plink_1TUZIeFQug2wl8EVrWQIdlBA",
+    "price_id": "price_1TUZHrFQug2wl8EVeCknWekO",
+    "product_id": "prod_UTWJaXdRQaKEFe",
+    "sku": "concrete_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/aFa7sLa8dfi3ect0dv2cg0t"
+  },
+  "concrete_journeyman_weekly": {
+    "amount_cents": 250200,
+    "payment_link_id": "plink_1TUZQoFQug2wl8EVaktCzyXk",
+    "price_id": "price_1TUZQ4FQug2wl8EVOfMLjalp",
+    "product_id": "prod_UTWS6loR77Rf0i",
+    "sku": "concrete_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/cNi00j6W1fi32tL4tL2cg0v"
+  },
+  "concrete_master_full": {
+    "amount_cents": 70400,
+    "payment_link_id": "plink_1TUZR8FQug2wl8EVCoVK8HcQ",
+    "price_id": "price_1TUZQIFQug2wl8EV7KXucP0C",
+    "product_id": "prod_UTWSq7IpdTTb7r",
+    "sku": "concrete_master_full",
+    "url": "https://secure.nepa-pro.com/b/28E6oH5RX1rd5FX8K12cg0x"
+  },
+  "concrete_master_half": {
+    "amount_cents": 35200,
+    "payment_link_id": "plink_1TUZQyFQug2wl8EVuXDWWIYr",
+    "price_id": "price_1TUZQBFQug2wl8EVUeqYn4uX",
+    "product_id": "prod_UTWSNwBddbUvhC",
+    "sku": "concrete_master_half",
+    "url": "https://secure.nepa-pro.com/b/cNibJ1fsx1rd7O52lD2cg0w"
+  },
+  "concrete_master_weekly": {
+    "amount_cents": 323800,
+    "payment_link_id": "plink_1TUZRIFQug2wl8EVA3dHmet1",
+    "price_id": "price_1TUZQPFQug2wl8EVyMMGMD1Z",
+    "product_id": "prod_UTWSVjzya7bLML",
+    "sku": "concrete_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/8x214n6W16Lx7O55xP2cg0y"
+  },
+  "drywall_apprentice_full": {
+    "amount_cents": 33600,
+    "payment_link_id": "plink_1TUZU8FQug2wl8EVE0zxR2rV",
+    "price_id": "price_1TUZSwFQug2wl8EVyRHL54Es",
+    "product_id": "prod_UTWUqcOYspSXKO",
+    "sku": "drywall_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/00wdR9cgl7PB7O55xP2cg0A"
+  },
+  "drywall_apprentice_half": {
+    "amount_cents": 16800,
+    "payment_link_id": "plink_1TUZTxFQug2wl8EVg8ocAtCk",
+    "price_id": "price_1TUZSrFQug2wl8EV60GWZv7y",
+    "product_id": "prod_UTWUbjHMzdHEnX",
+    "sku": "drywall_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/bJeeVd9499XJ4BT4tL2cg0z"
+  },
+  "drywall_apprentice_weekly": {
+    "amount_cents": 154600,
+    "payment_link_id": "plink_1TUZUIFQug2wl8EV3H9gKcQc",
+    "price_id": "price_1TUZT2FQug2wl8EVYHk3z8ej",
+    "product_id": "prod_UTWVHSrHCDtwNU",
+    "sku": "drywall_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/fZueVda8dgm7gkB5xP2cg0B"
+  },
+  "drywall_journeyman_full": {
+    "amount_cents": 49600,
+    "payment_link_id": "plink_1TUZUdFQug2wl8EVcLa8vflh",
+    "price_id": "price_1TUZTCFQug2wl8EVzBW5UhpW",
+    "product_id": "prod_UTWVWOcRrm0LR1",
+    "sku": "drywall_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/5kQfZhcgl5Htect1hz2cg0D"
+  },
+  "drywall_journeyman_half": {
+    "amount_cents": 24800,
+    "payment_link_id": "plink_1TUZUTFQug2wl8EVrdu5VNsL",
+    "price_id": "price_1TUZT7FQug2wl8EVQRE7BgNG",
+    "product_id": "prod_UTWVp5bqBjm2Az",
+    "sku": "drywall_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/00w00j949b1N5FX5xP2cg0C"
+  },
+  "drywall_journeyman_weekly": {
+    "amount_cents": 228200,
+    "payment_link_id": "plink_1TUZUnFQug2wl8EVDkVmAZDh",
+    "price_id": "price_1TUZTHFQug2wl8EVbsBfLwH2",
+    "product_id": "prod_UTWVNYUDeX2c7o",
+    "sku": "drywall_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/cNi6oH9492vh2tL5xP2cg0E"
+  },
+  "drywall_master_full": {
+    "amount_cents": 65600,
+    "payment_link_id": "plink_1TUZV6FQug2wl8EVXVQYnp7g",
+    "price_id": "price_1TUZTTFQug2wl8EV7pU3nhBd",
+    "product_id": "prod_UTWVx2M0zTx4I4",
+    "sku": "drywall_master_full",
+    "url": "https://secure.nepa-pro.com/b/4gMaEX6W18TF5FX6BT2cg0G"
+  },
+  "drywall_master_half": {
+    "amount_cents": 32800,
+    "payment_link_id": "plink_1TUZUwFQug2wl8EVR7zvvYda",
+    "price_id": "price_1TUZTOFQug2wl8EVpJTZjNmP",
+    "product_id": "prod_UTWVdEPUBmW43r",
+    "sku": "drywall_master_half",
+    "url": "https://secure.nepa-pro.com/b/4gMaEXdkp7PBd8pe4l2cg0F"
+  },
+  "drywall_master_weekly": {
+    "amount_cents": 301800,
+    "payment_link_id": "plink_1TUZVFFQug2wl8EVfC4qzheM",
+    "price_id": "price_1TUZTZFQug2wl8EVZZMH1jXl",
+    "product_id": "prod_UTWV19MbMHdFWK",
+    "sku": "drywall_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/14A8wP2FLb1Nd8p0dv2cg0H"
+  },
+  "electricians_apprentice_full": {
+    "amount_cents": 46400,
+    "payment_link_id": "plink_1TUZnlFQug2wl8EVRbbiiWro",
+    "price_id": "price_1TUZmWFQug2wl8EVfJnD3tUV",
+    "product_id": "prod_UTWZdYyEZZ36WJ",
+    "sku": "electricians_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/aFabJ11BHc5R6K11hz2cg0J"
+  },
+  "electricians_apprentice_half": {
+    "amount_cents": 23200,
+    "payment_link_id": "plink_1TUZnZFQug2wl8EVZQ4xMrk2",
+    "price_id": "price_1TUZmQFQug2wl8EVPI4DmLFu",
+    "product_id": "prod_UTWZMtXDbmcwXd",
+    "sku": "electricians_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/8x24gz6W1c5R6K15xP2cg0I"
+  },
+  "electricians_apprentice_weekly": {
+    "amount_cents": 213400,
+    "payment_link_id": "plink_1TUZnuFQug2wl8EVKbeq80YY",
+    "price_id": "price_1TUZmdFQug2wl8EV4iaqno3G",
+    "product_id": "prod_UTWZ0EzAQ6G6TA",
+    "sku": "electricians_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/7sY00j9490n9c4lf8p2cg0K"
+  },
+  "electricians_journeyman_full": {
+    "amount_cents": 68000,
+    "payment_link_id": "plink_1TUZ9lFQug2wl8EVrq0j3tBP",
+    "price_id": "price_1TUZ9FFQug2wl8EVh832AsqG",
+    "product_id": "prod_UTWBLITBMoI97F",
+    "sku": "electricians_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/3cIeVda8d6Lx2tLaS92cg0p"
+  },
+  "electricians_journeyman_half": {
+    "amount_cents": 34000,
+    "payment_link_id": "plink_1TUZo5FQug2wl8EVjfxABlUW",
+    "price_id": "price_1TUZmjFQug2wl8EVLEdZz0DV",
+    "product_id": "prod_UTWZiVtNK2pYSr",
+    "sku": "electricians_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/3cIdR94NTc5Rb0hbWd2cg0L"
+  },
+  "electricians_journeyman_weekly": {
+    "amount_cents": 312800,
+    "payment_link_id": "plink_1TUZoGFQug2wl8EVbSipcND4",
+    "price_id": "price_1TUZmpFQug2wl8EVfZVHymNp",
+    "product_id": "prod_UTWatIWPBSUI1p",
+    "sku": "electricians_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/6oU00ja8dedZ3xPgct2cg0M"
+  },
+  "electricians_master_full": {
+    "amount_cents": 92000,
+    "payment_link_id": "plink_1TUZoZFQug2wl8EVRYXtW4zz",
+    "price_id": "price_1TUZn0FQug2wl8EV1biofLns",
+    "product_id": "prod_UTWoDu6QMkjoSv",
+    "sku": "electricians_master_full",
+    "url": "https://secure.nepa-pro.com/b/7sY4gzcgl6Lx7O58K12cg0O"
+  },
+  "electricians_master_half": {
+    "amount_cents": 46000,
+    "payment_link_id": "plink_1TUZoPFQug2wl8EV0bg0BrL4",
+    "price_id": "price_1TUZmuFQug2wl8EV8HrXDr1Z",
+    "product_id": "prod_UTWo1MQywctVXA",
+    "sku": "electricians_master_half",
+    "url": "https://secure.nepa-pro.com/b/7sYaEXcgl8TFgkBaS92cg0N"
+  },
+  "electricians_master_weekly": {
+    "amount_cents": 423200,
+    "payment_link_id": "plink_1TUZojFQug2wl8EVwXsfSlJt",
+    "price_id": "price_1TUZn6FQug2wl8EVHN5ZoYtg",
+    "product_id": "prod_UTWouzJVB15VEW",
+    "sku": "electricians_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/7sYaEXdkpc5R7O59O52cg0P"
+  },
+  "heavy-equipment_apprentice_full": {
+    "amount_cents": 46400,
+    "payment_link_id": "plink_1TUblDFQug2wl8EVRwKMPhMs",
+    "price_id": "price_1TUbkBFQug2wl8EV6tGrPKnu",
+    "product_id": "prod_UTYrCDwk0PkeCI",
+    "sku": "heavy-equipment_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/dRmdR9dkp9XJ3xP5xP2cg2s"
+  },
+  "heavy-equipment_apprentice_half": {
+    "amount_cents": 23200,
+    "payment_link_id": "plink_1TUbl3FQug2wl8EVmMqpzsPe",
+    "price_id": "price_1TUbk5FQug2wl8EVU7Tl6HLI",
+    "product_id": "prod_UTYqUYrp3CSwhk",
+    "sku": "heavy-equipment_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/8x2aEXdkpedZ7O54tL2cg2r"
+  },
+  "heavy-equipment_apprentice_weekly": {
+    "amount_cents": 213400,
+    "payment_link_id": "plink_1TUblMFQug2wl8EV2C66UwX0",
+    "price_id": "price_1TUbkGFQug2wl8EVLvsyXK9K",
+    "product_id": "prod_UTYreUQPod0JNP",
+    "sku": "heavy-equipment_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/cNi6oHfsx9XJ5FX6BT2cg2t"
+  },
+  "heavy-equipment_journeyman_full": {
+    "amount_cents": 68000,
+    "payment_link_id": "plink_1TUblfFQug2wl8EVnOAST2Kt",
+    "price_id": "price_1TUbkSFQug2wl8EVQQHSXaLy",
+    "product_id": "prod_UTYrGG5iKlCeRy",
+    "sku": "heavy-equipment_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/00waEX6W17PB7O5gct2cg2v"
+  },
+  "heavy-equipment_journeyman_half": {
+    "amount_cents": 34000,
+    "payment_link_id": "plink_1TUblWFQug2wl8EVBpNfaYCQ",
+    "price_id": "price_1TUbkNFQug2wl8EVdptjuPLJ",
+    "product_id": "prod_UTYraIjvwloskq",
+    "sku": "heavy-equipment_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/cNiaEX2FL1rd9Wd5xP2cg2u"
+  },
+  "heavy-equipment_journeyman_weekly": {
+    "amount_cents": 312800,
+    "payment_link_id": "plink_1TUblnFQug2wl8EVWggPqvyn",
+    "price_id": "price_1TUbkXFQug2wl8EV6AlVNWnP",
+    "product_id": "prod_UTYrHTrZ3uxJ6W",
+    "sku": "heavy-equipment_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/aFa28r6W1b1N5FXaS92cg2w"
+  },
+  "heavy-equipment_master_full": {
+    "amount_cents": 92000,
+    "payment_link_id": "plink_1TUbm5FQug2wl8EV7vlprEqp",
+    "price_id": "price_1TUbkiFQug2wl8EVLvu0Qkea",
+    "product_id": "prod_UTYr0IIGq9sU0M",
+    "sku": "heavy-equipment_master_full",
+    "url": "https://secure.nepa-pro.com/b/00wfZh4NT6Lx8S99O52cg2y"
+  },
+  "heavy-equipment_master_half": {
+    "amount_cents": 46000,
+    "payment_link_id": "plink_1TUblwFQug2wl8EVxX4cC8SN",
+    "price_id": "price_1TUbkdFQug2wl8EVlMQ6OZMG",
+    "product_id": "prod_UTYrH10cFzow1H",
+    "sku": "heavy-equipment_master_half",
+    "url": "https://secure.nepa-pro.com/b/6oU6oH3JP9XJd8pf8p2cg2x"
+  },
+  "heavy-equipment_master_weekly": {
+    "amount_cents": 423200,
+    "payment_link_id": "plink_1TUbmFFQug2wl8EVkWQTes2W",
+    "price_id": "price_1TUbknFQug2wl8EVZNN4ibaT",
+    "product_id": "prod_UTYrqWlRYk92vd",
+    "sku": "heavy-equipment_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/aFa9AT9494Dpb0h3pH2cg2z"
+  },
+  "hvac_apprentice_full": {
+    "amount_cents": 41600,
+    "payment_link_id": "plink_1TUZriFQug2wl8EVBJ6VS2j0",
+    "price_id": "price_1TUZqZFQug2wl8EV4hSpDNFp",
+    "product_id": "prod_UTWtADLggqlL7h",
+    "sku": "hvac_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/bJe9AT6W10n94BT2lD2cg0R"
+  },
+  "hvac_apprentice_half": {
+    "amount_cents": 20800,
+    "payment_link_id": "plink_1TUZrXFQug2wl8EVdUev2FLi",
+    "price_id": "price_1TUZqSFQug2wl8EVrLZ2KMuk",
+    "product_id": "prod_UTWti5apUdRvrs",
+    "sku": "hvac_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/bJe7sLa8dfi39Wd1hz2cg0Q"
+  },
+  "hvac_apprentice_weekly": {
+    "amount_cents": 191400,
+    "payment_link_id": "plink_1TUZrsFQug2wl8EVQVEQQkSc",
+    "price_id": "price_1TUZqgFQug2wl8EVstiUil9x",
+    "product_id": "prod_UTWtRL4GnUTg2Y",
+    "sku": "hvac_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/aFafZh6W12vhd8p2lD2cg0S"
+  },
+  "hvac_journeyman_full": {
+    "amount_cents": 62400,
+    "payment_link_id": "plink_1TUZsBFQug2wl8EVZS7mGBUZ",
+    "price_id": "price_1TUZqrFQug2wl8EVc0n1OmxS",
+    "product_id": "prod_UTWthupDCWNUvN",
+    "sku": "hvac_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/4gM9AT0xD6Lxb0hbWd2cg0U"
+  },
+  "hvac_journeyman_half": {
+    "amount_cents": 31200,
+    "payment_link_id": "plink_1TUZs2FQug2wl8EVPeeQxEuu",
+    "price_id": "price_1TUZqlFQug2wl8EVGqdY7nea",
+    "product_id": "prod_UTWtLJx2AFiRT9",
+    "sku": "hvac_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/eVq3cv3JP8TF5FX5xP2cg0T"
+  },
+  "hvac_journeyman_weekly": {
+    "amount_cents": 287000,
+    "payment_link_id": "plink_1TUZsLFQug2wl8EVhYC5lgMg",
+    "price_id": "price_1TUZqxFQug2wl8EVOUn7b0Jw",
+    "product_id": "prod_UTWttIWRQwiqYs",
+    "sku": "hvac_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/eVqcN5fsx9XJb0he4l2cg0V"
+  },
+  "hvac_master_full": {
+    "amount_cents": 84000,
+    "payment_link_id": "plink_1TUZsgFQug2wl8EVG6zOpTbG",
+    "price_id": "price_1TUZr9FQug2wl8EVVCHHVVAS",
+    "product_id": "prod_UTWuq196tDHh7f",
+    "sku": "hvac_master_full",
+    "url": "https://secure.nepa-pro.com/b/28EfZhdkp1rdc4l0dv2cg0X"
+  },
+  "hvac_master_half": {
+    "amount_cents": 42000,
+    "payment_link_id": "plink_1TUZsVFQug2wl8EVU8DZlQ9m",
+    "price_id": "price_1TUZr3FQug2wl8EV0zHIaqbe",
+    "product_id": "prod_UTWtcNJCDAwI4C",
+    "sku": "hvac_master_half",
+    "url": "https://secure.nepa-pro.com/b/bJe14n6W12vh5FX7FX2cg0W"
+  },
+  "hvac_master_weekly": {
+    "amount_cents": 386400,
+    "payment_link_id": "plink_1TUZsqFQug2wl8EVC4n1FCq3",
+    "price_id": "price_1TUZrFFQug2wl8EVn8oZkpFF",
+    "product_id": "prod_UTWuAoyLMivuNj",
+    "sku": "hvac_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/4gMeVdcgl2vhc4l4tL2cg0Y"
+  },
+  "ironworkers_apprentice_full": {
+    "amount_cents": 44000,
+    "payment_link_id": "plink_1TUaQXFQug2wl8EVqcCMgTeu",
+    "price_id": "price_1TUaPUFQug2wl8EVViYE0c89",
+    "product_id": "prod_UTXTBFzESI4sUr",
+    "sku": "ironworkers_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/bJe3cvgwB4Dpb0h2lD2cg19"
+  },
+  "ironworkers_apprentice_half": {
+    "amount_cents": 22000,
+    "payment_link_id": "plink_1TUaQOFQug2wl8EVzhcBh3ga",
+    "price_id": "price_1TUaPPFQug2wl8EVHKO02j0r",
+    "product_id": "prod_UTXTK6kGN5cmVh",
+    "sku": "ironworkers_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/dRmaEXa8d4Dpect7FX2cg18"
+  },
+  "ironworkers_apprentice_weekly": {
+    "amount_cents": 202400,
+    "payment_link_id": "plink_1TUaQhFQug2wl8EVVX7ZVYGv",
+    "price_id": "price_1TUaPZFQug2wl8EVLQxoKlbs",
+    "product_id": "prod_UTXTQZaQF6psLT",
+    "sku": "ironworkers_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/4gM9ATcgl6Lxc4l4tL2cg1a"
+  },
+  "ironworkers_journeyman_full": {
+    "amount_cents": 64000,
+    "payment_link_id": "plink_1TUaR0FQug2wl8EV1hjRJmNB",
+    "price_id": "price_1TUaPlFQug2wl8EV2L8XrH4w",
+    "product_id": "prod_UTXTSQW8Dwhm0w",
+    "sku": "ironworkers_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/14A9AT0xDd9V8S98K12cg1c"
+  },
+  "ironworkers_journeyman_half": {
+    "amount_cents": 32000,
+    "payment_link_id": "plink_1TUaQrFQug2wl8EV5uJlfJG9",
+    "price_id": "price_1TUaPfFQug2wl8EVzxd3gUXI",
+    "product_id": "prod_UTXTKei1glzCl4",
+    "sku": "ironworkers_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/3cI14n949b1Nc4l6BT2cg1b"
+  },
+  "ironworkers_journeyman_weekly": {
+    "amount_cents": 294400,
+    "payment_link_id": "plink_1TUaRAFQug2wl8EVUahntq0r",
+    "price_id": "price_1TUaPrFQug2wl8EV5qhmDlxm",
+    "product_id": "prod_UTXTlPF7zKnHr4",
+    "sku": "ironworkers_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/28EfZh4NT8TF1pHgct2cg1d"
+  },
+  "ironworkers_master_full": {
+    "amount_cents": 86400,
+    "payment_link_id": "plink_1TUaRVFQug2wl8EVvnY7juUV",
+    "price_id": "price_1TUaQ2FQug2wl8EVjz0NfMVR",
+    "product_id": "prod_UTXUJ9ErVd7yNr",
+    "sku": "ironworkers_master_full",
+    "url": "https://secure.nepa-pro.com/b/dRm5kD949d9VgkB9O52cg1f"
+  },
+  "ironworkers_master_half": {
+    "amount_cents": 43200,
+    "payment_link_id": "plink_1TUaRKFQug2wl8EVbwfTi19l",
+    "price_id": "price_1TUaPxFQug2wl8EVseUdmJAM",
+    "product_id": "prod_UTXUyLJqaLYn6s",
+    "sku": "ironworkers_master_half",
+    "url": "https://secure.nepa-pro.com/b/cNi5kDa8dc5R5FX8K12cg1e"
+  },
+  "ironworkers_master_weekly": {
+    "amount_cents": 397400,
+    "payment_link_id": "plink_1TUaRfFQug2wl8EVWHIFTYHL",
+    "price_id": "price_1TUaQ8FQug2wl8EVz58IqIi5",
+    "product_id": "prod_UTXUrKy8OHL2IJ",
+    "sku": "ironworkers_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/5kQeVdfsxc5Recte4l2cg1g"
+  },
+  "linemen_apprentice_full": {
+    "amount_cents": 54400,
+    "payment_link_id": "plink_1TUaZUFQug2wl8EVXtqPl7ju",
+    "price_id": "price_1TUaTLFQug2wl8EVyqWZThGl",
+    "product_id": "prod_UTXXzkAXA2zvog",
+    "sku": "linemen_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/7sY3cvbch3zl2tLgct2cg1i"
+  },
+  "linemen_apprentice_half": {
+    "amount_cents": 27200,
+    "payment_link_id": "plink_1TUaUIFQug2wl8EVSU6ZH6D3",
+    "price_id": "price_1TUaTGFQug2wl8EV5Z2VwbTO",
+    "product_id": "prod_UTXXq2kcAEWU8z",
+    "sku": "linemen_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/dRmbJ1a8d3zl0lD6BT2cg1h"
+  },
+  "linemen_apprentice_weekly": {
+    "amount_cents": 250200,
+    "payment_link_id": "plink_1TUaZdFQug2wl8EVH8vVG2Ty",
+    "price_id": "price_1TUaTQFQug2wl8EVNjeEMKsY",
+    "product_id": "prod_UTXXUMjorBscwN",
+    "sku": "linemen_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/00waEXdkp8TFectbWd2cg1j"
+  },
+  "linemen_journeyman_full": {
+    "amount_cents": 78400,
+    "payment_link_id": "plink_1TUaZvFQug2wl8EV80ktg1Lb",
+    "price_id": "price_1TUaTcFQug2wl8EVQSNPVfAa",
+    "product_id": "prod_UTXXmfXrtzRMUj",
+    "sku": "linemen_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/14A4gzgwB6Lx6K1bWd2cg1l"
+  },
+  "linemen_journeyman_half": {
+    "amount_cents": 39200,
+    "payment_link_id": "plink_1TUaZmFQug2wl8EV9V3UWexi",
+    "price_id": "price_1TUaTWFQug2wl8EV7mIvIDjf",
+    "product_id": "prod_UTXXJjWZK7ZND5",
+    "sku": "linemen_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/eVqeVd2FL4Dp2tL8K12cg1k"
+  },
+  "linemen_journeyman_weekly": {
+    "amount_cents": 360600,
+    "payment_link_id": "plink_1TUaa4FQug2wl8EVo6iAXLj3",
+    "price_id": "price_1TUaTjFQug2wl8EVl5BVjCOR",
+    "product_id": "prod_UTXXTWvEnCDdYM",
+    "sku": "linemen_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/bJedR9fsxedZ1pH7FX2cg1m"
+  },
+  "linemen_master_full": {
+    "amount_cents": 108000,
+    "payment_link_id": "plink_1TUaaNFQug2wl8EVVjWDtZVK",
+    "price_id": "price_1TUaTvFQug2wl8EVFulaztON",
+    "product_id": "prod_UTXYEP5GDIgutB",
+    "sku": "linemen_master_full",
+    "url": "https://secure.nepa-pro.com/b/fZu8wPa8d1rdectbWd2cg1o"
+  },
+  "linemen_master_half": {
+    "amount_cents": 54000,
+    "payment_link_id": "plink_1TUaaDFQug2wl8EVU9r5DYZi",
+    "price_id": "price_1TUaToFQug2wl8EVQrfkpNV3",
+    "product_id": "prod_UTXY7mku6AiudG",
+    "sku": "linemen_master_half",
+    "url": "https://secure.nepa-pro.com/b/bJe6oH5RX5Htc4ld0h2cg1n"
+  },
+  "linemen_master_weekly": {
+    "amount_cents": 496800,
+    "payment_link_id": "plink_1TUaaXFQug2wl8EVj89Lvhuz",
+    "price_id": "price_1TUaU1FQug2wl8EV6zSv1eVh",
+    "product_id": "prod_UTXYsEN9DjSpkF",
+    "sku": "linemen_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/5kQ4gz0xD1rd5FXbWd2cg1p"
+  },
+  "masons_apprentice_full": {
+    "amount_cents": 41600,
+    "payment_link_id": "plink_1TUadLFQug2wl8EVcvqyqPpd",
+    "price_id": "price_1TUacHFQug2wl8EVtiaPoTzC",
+    "product_id": "prod_UTXg97O5c3Vwr4",
+    "sku": "masons_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/bJe8wPa8db1N7O58K12cg1r"
+  },
+  "masons_apprentice_half": {
+    "amount_cents": 20800,
+    "payment_link_id": "plink_1TUadCFQug2wl8EVDSsmM6HK",
+    "price_id": "price_1TUacBFQug2wl8EVQgUTInzc",
+    "product_id": "prod_UTXgcMuipolTYQ",
+    "sku": "masons_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/6oU9ATgwBd9V9Wdgct2cg1q"
+  },
+  "masons_apprentice_weekly": {
+    "amount_cents": 191400,
+    "payment_link_id": "plink_1TUadVFQug2wl8EVoOLba2NY",
+    "price_id": "price_1TUacMFQug2wl8EVa0HQEOuz",
+    "product_id": "prod_UTXgUcBaXNMRqT",
+    "sku": "masons_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/eVqcN5eot4Dp8S93pH2cg1s"
+  },
+  "masons_journeyman_full": {
+    "amount_cents": 60800,
+    "payment_link_id": "plink_1TUadpFQug2wl8EVSNMNT1qX",
+    "price_id": "price_1TUacYFQug2wl8EVlHIZlYYZ",
+    "product_id": "prod_UTXhg1CTTFMcHE",
+    "sku": "masons_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/14A7sL1BHgm76K13pH2cg1u"
+  },
+  "masons_journeyman_half": {
+    "amount_cents": 30400,
+    "payment_link_id": "plink_1TUadgFQug2wl8EVzLD8WPnA",
+    "price_id": "price_1TUacSFQug2wl8EVBQ8fkLfq",
+    "product_id": "prod_UTXgRxr5WBPdOI",
+    "sku": "masons_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/9B6aEX6W1b1N8S9e4l2cg1t"
+  },
+  "masons_journeyman_weekly": {
+    "amount_cents": 279700,
+    "payment_link_id": "plink_1TUadyFQug2wl8EVaaa71P6C",
+    "price_id": "price_1TUaceFQug2wl8EVdJ5JeeEs",
+    "product_id": "prod_UTXhL1Q8irVV0m",
+    "sku": "masons_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/bJe7sL805fi36K1aS92cg1v"
+  },
+  "masons_master_full": {
+    "amount_cents": 81600,
+    "payment_link_id": "plink_1TUaeHFQug2wl8EVt6yntVFH",
+    "price_id": "price_1TUacqFQug2wl8EVUVIPOKB1",
+    "product_id": "prod_UTXha0hY4WhgMk",
+    "sku": "masons_master_full",
+    "url": "https://secure.nepa-pro.com/b/8x2fZhgwBb1N5FX4tL2cg1x"
+  },
+  "masons_master_half": {
+    "amount_cents": 40800,
+    "payment_link_id": "plink_1TUae8FQug2wl8EVHqSAwQ3P",
+    "price_id": "price_1TUackFQug2wl8EVgnH1jdv4",
+    "product_id": "prod_UTXh39xG3G8Nm5",
+    "sku": "masons_master_half",
+    "url": "https://secure.nepa-pro.com/b/aFa7sLdkpb1N2tL0dv2cg1w"
+  },
+  "masons_master_weekly": {
+    "amount_cents": 375400,
+    "payment_link_id": "plink_1TUaeQFQug2wl8EVhHps1VSa",
+    "price_id": "price_1TUacwFQug2wl8EVB3QJbuHE",
+    "product_id": "prod_UTXhlwj1BCN4fd",
+    "sku": "masons_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/eVq9ATgwBfi3ect6BT2cg1y"
+  },
+  "millwrights_apprentice_full": {
+    "amount_cents": 46400,
+    "payment_link_id": "plink_1TUb2DFQug2wl8EVuxjsMrrn",
+    "price_id": "price_1TUagBFQug2wl8EVOic3juRD",
+    "product_id": "prod_UTXkge16JrnZKn",
+    "sku": "millwrights_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/dRm14ngwB1rd0lD1hz2cg1A"
+  },
+  "millwrights_apprentice_half": {
+    "amount_cents": 23200,
+    "payment_link_id": "plink_1TUb23FQug2wl8EVab9hMKhI",
+    "price_id": "price_1TUag5FQug2wl8EVFF1fvGaa",
+    "product_id": "prod_UTXkVysQ6JMxZc",
+    "sku": "millwrights_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/aFa5kDgwB6LxgkB2lD2cg1z"
+  },
+  "millwrights_apprentice_weekly": {
+    "amount_cents": 213400,
+    "payment_link_id": "plink_1TUb2NFQug2wl8EVNd8kRZRT",
+    "price_id": "price_1TUagHFQug2wl8EVnLRwYaLc",
+    "product_id": "prod_UTXku4ubIChjpy",
+    "sku": "millwrights_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/9B65kD4NTgm7d8p2lD2cg1B"
+  },
+  "millwrights_journeyman_full": {
+    "amount_cents": 68800,
+    "payment_link_id": "plink_1TUb2gFQug2wl8EVjUSgShnJ",
+    "price_id": "price_1TUb1SFQug2wl8EVrVCgXqhr",
+    "product_id": "prod_UTXlyktCzb7Wjj",
+    "sku": "millwrights_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/28E14n2FLc5Rb0hbWd2cg1D"
+  },
+  "millwrights_journeyman_half": {
+    "amount_cents": 34400,
+    "payment_link_id": "plink_1TUb2WFQug2wl8EVj79668kw",
+    "price_id": "price_1TUagMFQug2wl8EVRIVxyIII",
+    "product_id": "prod_UTXkL1jmtLqj15",
+    "sku": "millwrights_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/7sYeVdfsxgm7ectf8p2cg1C"
+  },
+  "millwrights_journeyman_weekly": {
+    "amount_cents": 316500,
+    "payment_link_id": "plink_1TUb2pFQug2wl8EVw2yBysxn",
+    "price_id": "price_1TUb1YFQug2wl8EVYvk3GA0U",
+    "product_id": "prod_UTXljcHKuP284e",
+    "sku": "millwrights_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/00w00jgwBfi30lDe4l2cg1E"
+  },
+  "millwrights_master_full": {
+    "amount_cents": 92000,
+    "payment_link_id": "plink_1TUb38FQug2wl8EVD0QtCI4P",
+    "price_id": "price_1TUb1iFQug2wl8EVYs7vBwZj",
+    "product_id": "prod_UTXleZYhlITtMp",
+    "sku": "millwrights_master_full",
+    "url": "https://secure.nepa-pro.com/b/6oU28r6W1d9V8S9gct2cg1G"
+  },
+  "millwrights_master_half": {
+    "amount_cents": 46000,
+    "payment_link_id": "plink_1TUb2zFQug2wl8EVoQhlpvwc",
+    "price_id": "price_1TUb1dFQug2wl8EVPNda0QTN",
+    "product_id": "prod_UTXlQIDK31e8Ut",
+    "sku": "millwrights_master_half",
+    "url": "https://secure.nepa-pro.com/b/6oU9AT949b1N4BT7FX2cg1F"
+  },
+  "millwrights_master_weekly": {
+    "amount_cents": 423200,
+    "payment_link_id": "plink_1TUb3KFQug2wl8EVNRSLSuAw",
+    "price_id": "price_1TUb1nFQug2wl8EV5J9mw9dh",
+    "product_id": "prod_UTXlQdxY3F1z1L",
+    "sku": "millwrights_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/bJefZha8dfi30lDf8p2cg1H"
+  },
+  "operating-engineers_apprentice_full": {
+    "amount_cents": 49600,
+    "payment_link_id": "plink_1TUbhTFQug2wl8EV5i8D71dk",
+    "price_id": "price_1TUbgVFQug2wl8EVdhnypcqh",
+    "product_id": "prod_UTYZYkt2n0AU7Z",
+    "sku": "operating-engineers_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/28E3cv3JPgm7ectd0h2cg2j"
+  },
+  "operating-engineers_apprentice_half": {
+    "amount_cents": 24800,
+    "payment_link_id": "plink_1TUbhKFQug2wl8EVgXe1z4SP",
+    "price_id": "price_1TUbgOFQug2wl8EVJYogYXQ5",
+    "product_id": "prod_UTYZSvDpRU3oV3",
+    "sku": "operating-engineers_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/dRm5kDfsxgm70lD8K12cg2i"
+  },
+  "operating-engineers_apprentice_weekly": {
+    "amount_cents": 228200,
+    "payment_link_id": "plink_1TUbhcFQug2wl8EVmIu2Bxps",
+    "price_id": "price_1TUbgaFQug2wl8EV1U6kTak1",
+    "product_id": "prod_UTYaESQL2Obqq1",
+    "sku": "operating-engineers_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/5kQ00jeotb1N9Wd2lD2cg2k"
+  },
+  "operating-engineers_journeyman_full": {
+    "amount_cents": 72000,
+    "payment_link_id": "plink_1TUbhuFQug2wl8EVPw8C34Xe",
+    "price_id": "price_1TUbgjFQug2wl8EVCgIi4WdR",
+    "product_id": "prod_UTYad8kOakMLy9",
+    "sku": "operating-engineers_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/fZu9ATfsx3zlb0hf8p2cg2m"
+  },
+  "operating-engineers_journeyman_half": {
+    "amount_cents": 36000,
+    "payment_link_id": "plink_1TUbhkFQug2wl8EVSUxeKyDO",
+    "price_id": "price_1TUbgeFQug2wl8EV8CtRelzE",
+    "product_id": "prod_UTYa93AaEdpsPL",
+    "sku": "operating-engineers_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/00w4gz5RX3zl2tLe4l2cg2l"
+  },
+  "operating-engineers_journeyman_weekly": {
+    "amount_cents": 331200,
+    "payment_link_id": "plink_1TUbi3FQug2wl8EVmWvzXcEG",
+    "price_id": "price_1TUbgpFQug2wl8EVgfWt676w",
+    "product_id": "prod_UTYaFNhN2gfv6s",
+    "sku": "operating-engineers_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/4gM5kD1BH1rd2tL0dv2cg2n"
+  },
+  "operating-engineers_master_full": {
+    "amount_cents": 96000,
+    "payment_link_id": "plink_1TUbiKFQug2wl8EVsWN9owut",
+    "price_id": "price_1TUbgzFQug2wl8EV3Kff6bBN",
+    "product_id": "prod_UTYaAKLCyAs82Q",
+    "sku": "operating-engineers_master_full",
+    "url": "https://secure.nepa-pro.com/b/dRm14n1BH3zlc4l3pH2cg2p"
+  },
+  "operating-engineers_master_half": {
+    "amount_cents": 48000,
+    "payment_link_id": "plink_1TUbiBFQug2wl8EVIKmw2hN4",
+    "price_id": "price_1TUbguFQug2wl8EVbh5MTFBu",
+    "product_id": "prod_UTYa3I5LX1nu5v",
+    "sku": "operating-engineers_master_half",
+    "url": "https://secure.nepa-pro.com/b/dRm14n4NT5Ht6K12lD2cg2o"
+  },
+  "operating-engineers_master_weekly": {
+    "amount_cents": 441600,
+    "payment_link_id": "plink_1TUbiUFQug2wl8EVJSAIuJLR",
+    "price_id": "price_1TUbh5FQug2wl8EVLPbaMFzY",
+    "product_id": "prod_UTYankXcskq0mu",
+    "sku": "operating-engineers_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/4gMeVd5RX8TF7O5d0h2cg2q"
+  },
+  "plumbers_apprentice_full": {
+    "amount_cents": 44000,
+    "payment_link_id": "plink_1TUb66FQug2wl8EVlE7T9dBD",
+    "price_id": "price_1TUb55FQug2wl8EVIL14XtMu",
+    "product_id": "prod_UTYA51OVepwGsJ",
+    "sku": "plumbers_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/28E14neotgm79Wd4tL2cg1J"
+  },
+  "plumbers_apprentice_half": {
+    "amount_cents": 22000,
+    "payment_link_id": "plink_1TUb5xFQug2wl8EVYQtrqZwN",
+    "price_id": "price_1TUb4yFQug2wl8EVzSZwHlBg",
+    "product_id": "prod_UTYAEvjSUIRIPw",
+    "sku": "plumbers_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/9B68wPdkpfi3b0h1hz2cg1I"
+  },
+  "plumbers_apprentice_weekly": {
+    "amount_cents": 202400,
+    "payment_link_id": "plink_1TUb6GFQug2wl8EVsIzGayjf",
+    "price_id": "price_1TUb5AFQug2wl8EVNl27S30Q",
+    "product_id": "prod_UTYA7vnb8MvUEe",
+    "sku": "plumbers_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/4gM8wP6W1fi34BT6BT2cg1K"
+  },
+  "plumbers_journeyman_full": {
+    "amount_cents": 65600,
+    "payment_link_id": "plink_1TUb6aFQug2wl8EVDnMawk2N",
+    "price_id": "price_1TUb5LFQug2wl8EVcnBnahkk",
+    "product_id": "prod_UTYAP0iNHDM3mS",
+    "sku": "plumbers_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/aFa5kD0xD5Htfgx3pH2cg1M"
+  },
+  "plumbers_journeyman_half": {
+    "amount_cents": 32800,
+    "payment_link_id": "plink_1TUb6RFQug2wl8EVKQU0gBfs",
+    "price_id": "price_1TUb5GFQug2wl8EV0OP4HfM6",
+    "product_id": "prod_UTYACtsHOjDtcw",
+    "sku": "plumbers_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/4gM6oH5RXc5RgkB9O52cg1L"
+  },
+  "plumbers_journeyman_weekly": {
+    "amount_cents": 301800,
+    "payment_link_id": "plink_1TUb6kFQug2wl8EV2pvOlKAe",
+    "price_id": "price_1TUb5RFQug2wl8EV3VBoxFHH",
+    "product_id": "prod_UTYAJEIB8pa1rr",
+    "sku": "plumbers_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/cNi7sL9499XJ7O5d0h2cg1N"
+  },
+  "plumbers_master_full": {
+    "amount_cents": 88000,
+    "payment_link_id": "plink_1TUb73FQug2wl8EVeLKMT6lK",
+    "price_id": "price_1TUb5bFQug2wl8EVzVueKjdv",
+    "product_id": "prod_UTYBQDSMHZSNSD",
+    "sku": "plumbers_master_full",
+    "url": "https://secure.nepa-pro.com/b/dRm9AT9490n99Wdf8p2cg1P"
+  },
+  "plumbers_master_half": {
+    "amount_cents": 44000,
+    "payment_link_id": "plink_1TUb6uFQug2wl8EVXMjvmuIM",
+    "price_id": "price_1TUb5WFQug2wl8EVre2Zg2zs",
+    "product_id": "prod_UTYA4OoQn9iBqu",
+    "sku": "plumbers_master_half",
+    "url": "https://secure.nepa-pro.com/b/6oU9AT9491rd9Wd1hz2cg1O"
+  },
+  "plumbers_master_weekly": {
+    "amount_cents": 404800,
+    "payment_link_id": "plink_1TUb7DFQug2wl8EVMtdks69f",
+    "price_id": "price_1TUb5hFQug2wl8EV9peUjaBU",
+    "product_id": "prod_UTYBQCpUSHtexF",
+    "sku": "plumbers_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/fZu7sL805fi32tLbWd2cg1Q"
+  },
+  "riggers_apprentice_full": {
+    "amount_cents": 41600,
+    "payment_link_id": "plink_1TUbMyFQug2wl8EVPH2ALaJ1",
+    "price_id": "price_1TUbK2FQug2wl8EV74GCsHJW",
+    "product_id": "prod_UTYPyLVpAn2TN3",
+    "sku": "riggers_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/3cI28rdkp6Lxect2lD2cg21"
+  },
+  "riggers_apprentice_half": {
+    "amount_cents": 20800,
+    "payment_link_id": "plink_1TUbMoFQug2wl8EVD3bcdv2a",
+    "price_id": "price_1TUbJwFQug2wl8EVgNlIvBHG",
+    "product_id": "prod_UTYPbm0tNBY3rF",
+    "sku": "riggers_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/28EdR9gwBc5Rc4le4l2cg20"
+  },
+  "riggers_apprentice_weekly": {
+    "amount_cents": 191400,
+    "payment_link_id": "plink_1TUbN7FQug2wl8EVhXjnKdb5",
+    "price_id": "price_1TUbK8FQug2wl8EVsZOkpMY5",
+    "product_id": "prod_UTYQtBeXdG456m",
+    "sku": "riggers_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/bJe5kDa8db1N0lD7FX2cg22"
+  },
+  "riggers_journeyman_full": {
+    "amount_cents": 60800,
+    "payment_link_id": "plink_1TUbNPFQug2wl8EVJXozykgj",
+    "price_id": "price_1TUbKJFQug2wl8EVXhXZDRWK",
+    "product_id": "prod_UTYQUIkSXVY872",
+    "sku": "riggers_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/bJe6oH6W18TF0lD9O52cg24"
+  },
+  "riggers_journeyman_half": {
+    "amount_cents": 30400,
+    "payment_link_id": "plink_1TUbNGFQug2wl8EVPZWuTQou",
+    "price_id": "price_1TUbKEFQug2wl8EV0goOK9E2",
+    "product_id": "prod_UTYQILngzgXdfJ",
+    "sku": "riggers_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/dRmcN5fsx9XJ6K1d0h2cg23"
+  },
+  "riggers_journeyman_weekly": {
+    "amount_cents": 279700,
+    "payment_link_id": "plink_1TUbNZFQug2wl8EV00I7hZBs",
+    "price_id": "price_1TUbKQFQug2wl8EVnNhnTDpc",
+    "product_id": "prod_UTYQCrBOuW8UvZ",
+    "sku": "riggers_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/fZu5kD8059XJ5FXf8p2cg25"
+  },
+  "riggers_master_full": {
+    "amount_cents": 81600,
+    "payment_link_id": "plink_1TUbNrFQug2wl8EVdgE83w5i",
+    "price_id": "price_1TUbMUFQug2wl8EVfYSz6pEM",
+    "product_id": "prod_UTYQMPHlyDfZ4B",
+    "sku": "riggers_master_full",
+    "url": "https://secure.nepa-pro.com/b/aFaeVd6W1edZect5xP2cg27"
+  },
+  "riggers_master_half": {
+    "amount_cents": 40800,
+    "payment_link_id": "plink_1TUbNiFQug2wl8EVo86WPSwS",
+    "price_id": "price_1TUbMOFQug2wl8EVYWrQiOSV",
+    "product_id": "prod_UTYQKU5KfxXMMC",
+    "sku": "riggers_master_half",
+    "url": "https://secure.nepa-pro.com/b/7sYcN5eot8TF3xP0dv2cg26"
+  },
+  "riggers_master_weekly": {
+    "amount_cents": 375400,
+    "payment_link_id": "plink_1TUbO0FQug2wl8EVS4iKKdsu",
+    "price_id": "price_1TUbMZFQug2wl8EVp3wNq3Z5",
+    "product_id": "prod_UTYQtJjbTwIlIA",
+    "sku": "riggers_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/4gM7sL1BHd9VgkB9O52cg28"
+  },
+  "welders_apprentice_full": {
+    "amount_cents": 38400,
+    "payment_link_id": "plink_1TUbQuFQug2wl8EVDABMG6DB",
+    "price_id": "price_1TUbPkFQug2wl8EVXbfAceLv",
+    "product_id": "prod_UTYVvviZCWbyKX",
+    "sku": "welders_apprentice_full",
+    "url": "https://secure.nepa-pro.com/b/fZu9ATcgld9VgkB9O52cg2a"
+  },
+  "welders_apprentice_half": {
+    "amount_cents": 19200,
+    "payment_link_id": "plink_1TUbQkFQug2wl8EVHZ0IIC5a",
+    "price_id": "price_1TUbPfFQug2wl8EV0Qi61UhM",
+    "product_id": "prod_UTYVbPdN9Y9i8e",
+    "sku": "welders_apprentice_half",
+    "url": "https://secure.nepa-pro.com/b/6oU14n4NT6LxgkB4tL2cg29"
+  },
+  "welders_apprentice_weekly": {
+    "amount_cents": 176600,
+    "payment_link_id": "plink_1TUbR3FQug2wl8EVgrDYymCa",
+    "price_id": "price_1TUbPqFQug2wl8EVtpmVRJLL",
+    "product_id": "prod_UTYWcT8QNGMAas",
+    "sku": "welders_apprentice_weekly",
+    "url": "https://secure.nepa-pro.com/b/6oUaEX2FLd9V2tL6BT2cg2b"
+  },
+  "welders_journeyman_full": {
+    "amount_cents": 57600,
+    "payment_link_id": "plink_1TUbRLFQug2wl8EVp1G5Ydbd",
+    "price_id": "price_1TUbPzFQug2wl8EVbcfesRtA",
+    "product_id": "prod_UTYWxfM881FxJN",
+    "sku": "welders_journeyman_full",
+    "url": "https://secure.nepa-pro.com/b/aFa7sL1BH2vhb0h5xP2cg2d"
+  },
+  "welders_journeyman_half": {
+    "amount_cents": 28800,
+    "payment_link_id": "plink_1TUbRCFQug2wl8EVeTOkyeq1",
+    "price_id": "price_1TUbPvFQug2wl8EVLgFUHHXB",
+    "product_id": "prod_UTYWXmHbFy02w4",
+    "sku": "welders_journeyman_half",
+    "url": "https://secure.nepa-pro.com/b/eVqcN51BH0n90lD8K12cg2c"
+  },
+  "welders_journeyman_weekly": {
+    "amount_cents": 265000,
+    "payment_link_id": "plink_1TUbRUFQug2wl8EVZ05sJ5HR",
+    "price_id": "price_1TUbQ5FQug2wl8EVHiN5hYtf",
+    "product_id": "prod_UTYWd5xE3TgpBu",
+    "sku": "welders_journeyman_weekly",
+    "url": "https://secure.nepa-pro.com/b/5kQ6oHa8dgm76K1f8p2cg2e"
+  },
+  "welders_master_full": {
+    "amount_cents": 78400,
+    "payment_link_id": "plink_1TUbRoFQug2wl8EVU4MEWyV1",
+    "price_id": "price_1TUbQIFQug2wl8EVhhWEh5Yu",
+    "product_id": "prod_UTYW2xTTXPVl87",
+    "sku": "welders_master_full",
+    "url": "https://secure.nepa-pro.com/b/4gMfZha8d0n96K1d0h2cg2g"
+  },
+  "welders_master_half": {
+    "amount_cents": 39200,
+    "payment_link_id": "plink_1TUbReFQug2wl8EV3kBvV2op",
+    "price_id": "price_1TUbQBFQug2wl8EVE0CytnKq",
+    "product_id": "prod_UTYWfR676YeJkt",
+    "sku": "welders_master_half",
+    "url": "https://secure.nepa-pro.com/b/6oU00jfsx3zl5FXbWd2cg2f"
+  },
+  "welders_master_weekly": {
+    "amount_cents": 360600,
+    "payment_link_id": "plink_1TUbRxFQug2wl8EVUuzAPVqJ",
+    "price_id": "price_1TUbQUFQug2wl8EVjUdXxOeb",
+    "product_id": "prod_UTYWFJzc5cHqsU",
+    "sku": "welders_master_weekly",
+    "url": "https://secure.nepa-pro.com/b/6oUdR9cgl4DpgkB4tL2cg2h"
+  }
+}

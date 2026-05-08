@@ -8,7 +8,7 @@ import http.server, socketserver, threading, urllib.request, json, re, sys, time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PORT = 8766
+PORT = 8767
 results = []
 
 
@@ -167,7 +167,9 @@ for d in ['half', 'full', 'weekly']:
 # SECTION 6: Stripe integration
 # ============================================================
 print("\n[6] Stripe Checkout Integration")
-check("STRIPE_BASE constant", "const STRIPE_BASE = 'https://buy.stripe.com/'" in html)
+check("STRIPE_BASE constant",
+      "const STRIPE_BASE = 'https://buy.stripe.com/'" in html or
+      "const STRIPE_BASE = 'https://secure.nepa-pro.com/b/'" in html)
 check("STRIPE_LINKS lookup table", "const STRIPE_LINKS = {" in html)
 check("buildStripeUrl function", "function buildStripeUrl" in html)
 check("Mailto fallback for un-wired SKUs", "mailto:service@nepa-pro.com" in html)

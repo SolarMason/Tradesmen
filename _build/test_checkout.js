@@ -72,8 +72,9 @@ for (const r of results) {
     if (!r.url.includes('subject=')) { ok = false; reason = 'missing mailto subject'; }
     if (!r.url.includes('body=')) { ok = false; reason = 'missing mailto body'; }
     if (!r.url.includes(r.trade)) { ok = false; reason = 'mailto missing trade ID'; }
-  } else if (r.url.startsWith('https://buy.stripe.com/')) {
-    // Real Stripe link path
+  } else if (r.url.startsWith('https://buy.stripe.com/') ||
+             r.url.startsWith('https://secure.nepa-pro.com/b/')) {
+    // Real Stripe link path (default or custom domain)
     if (!r.url.includes('client_reference_id=')) { ok = false; reason = 'missing reference ID'; }
     if (!r.url.includes('utm_source=tradesmen.nepa-pro.com')) { ok = false; reason = 'missing UTM'; }
     const sku = `${r.trade}_${r.tier}_${r.dur}`;
